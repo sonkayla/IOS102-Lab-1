@@ -1,4 +1,4 @@
-# IOS102-Lab-1
+# IOS101-Lab-1
 
 ## Video Walkthrough
 
